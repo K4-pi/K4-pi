@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   - 👾 Vulnerability types
   - 🛡️ Secure coding practices
 
+- 💀 **SKELETONS!!!**
+
 ## 🤔 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 💻 On the path to becoming a systems engineer
 - ⚙️ Learning how software, operating systems, and infrastructure fit together
