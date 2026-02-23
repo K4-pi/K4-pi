@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 🧰 Technologies and Tools
 ### ⌨ Languages
-- C (POSIX)
+- C
 - Assembly
 - Python
 - Bash
