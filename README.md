@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 - 💻 On the path to becoming a systems engineer
 - ⚙️ Learning how software, operating systems, and infrastructure fit together
 
---
-
 ## 🧰 Technologies and Tools
 ### ⌨ Languages
 - C (POSIX)
