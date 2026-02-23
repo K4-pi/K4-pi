@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔐 **Cybersecurity**
   - 👾 Vulnerability types
-  - 👷 Secure coding practices
+  - 🛡️ Secure coding practices
 
 ## 🤔 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 💻 On the path to becoming a systems engineer
