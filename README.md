@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **System programming**
   - IoT, embedded systems & operating systems
 
-- 🔐 **Cybersecurity**
+- **Cybersecurity**
   - Vulnerability types
   - Secure coding practices
 
